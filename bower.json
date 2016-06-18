@@ -1,0 +1,22 @@
+{
+  "name": "appcan-native",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kuistime/appcan-native",
+  "authors": [
+    "mitty.q <mitty.q@outlook.com>"
+  ],
+  "description": "appcan-native skeleton",
+  "keywords": [
+    "appcan",
+    "skeleton"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
