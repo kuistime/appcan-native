@@ -18,7 +18,6 @@
     "tests"
   ],
   "dependencies": {
-    "async": "^2.0.1",
-    "appcan": "^1.0.0"
+    "appcan-fesdk": "^1.0.0"
   }
 }
