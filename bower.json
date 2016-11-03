@@ -1,14 +1,17 @@
 {
   "name": "appcan-native",
   "version": "1.0.0",
-  "homepage": "",
-  "authors": [],
+  "homepage": "https://github.com/kuistime/appcan-widget",
+  "authors": [
+    "mitty.q <mitty.q@outlook.com>"
+  ],
   "description": "appcan-native skeleton",
+  "main": "",
   "keywords": [
     "appcan",
     "skeleton"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
